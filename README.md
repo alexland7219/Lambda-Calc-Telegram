@@ -21,7 +21,9 @@ This is a Telegram bot written in Python that interprets Lambda Calculus express
 ## Installation
 
 1. Clone the repository:
+`git clone https://github.com/alexland7219/Lambda-Calc-Telegram.git`
 2. Change into the project directory:
+`cd Lambda-Calc-Telegram`
 3. Install the required dependencies using pip:
 
 `pip install antlr4-tools antlr4-python3-runtime python-telegram-bot pydot`
